@@ -25,8 +25,8 @@ https://www.bustle.com/p/what-zodiac-signs-game-of-thrones-characters-would-be-i
 # 8. Scorpio: Arya Stark
 * A few words that describe Scorpios are mysterious, passionate, stubborn, brave, distrusting, secretive, and violent. What other sign could describe Arya in a better way? She is a woman of mystery and knows how to keep to herself to get exactly what she wants. She is brave to a fault, almost, and has a true violent side. She is never afraid of being assertive or acting like a leader, and at the same time, she can be highly emotional and moody. And, as we've seen, Arya clearly has the Scorpio sexual side as well.
 
-# 9. Sagittarius: Tormund Giantsbane
-* What a Sagittarius treasures above all else is that feeling of being totally free, which is all Tormund has ever wanted and worked for. Sags are also known for their sense of humor, their impatience, and their enthusiasm. Tormund is eager to get things going and he is easily the most entertaining character on the show right now. He is also never afraid to express himself, whether it's showing his devotion to Jon or his love for Brienne.
+# 9. Sagittarius: Yigritte
+* What a Sagittarius treasures above all else is that feeling of being totally free, which is all Yigritte has ever wanted and worked for. Sags are also known for their sense of humor, their impatience, and their enthusiasm. 
 
 # 10. Capricorn: Jon Snow
 * Capricorns are known for being responsible, disciplined people who make great managers but also tend to have a bit of a negative side. They are also very dedicated to their family lives and to doing things exactly right, and they tend to be very traditional and serious. These are all great ways to describe Jon. He is an excellent manager who has shown a decent amount of self-control, he is very responsible and is completely focused on his task at hand. He also has an extremely serious disposition and is known to be kind of a downer sometimes.
@@ -34,5 +34,5 @@ https://www.bustle.com/p/what-zodiac-signs-game-of-thrones-characters-would-be-i
 # 11. Aquarius: Bran Stark
 * Anyone who is an Aquarius is probably known for being more unique than others. Aquarius is typically more eccentric and mythical; they are also very independent, aloof, and don't really show off their emotions. Still, an Aquarius knows how to be a fighter and a good friend, and they're exceptionally smart. They are deep thinkers who enjoy time to themselves and absolutely need to be using their mind all the time. Bran is definitely on the more eccentric side, and he is constantly sitting on his own, thinking and putting his mind to work. He doesn't appear to have any emotions, really, and he has shown that he doesn't need anyone by his side.
 
-# 12. Pisces: Samwell Tarley
-* Pisces are probably the most sensitive sign of the zodiac. They are intuitive, gentle, compassionate people who have an artistic side, tend to be fearful, and hate cruelty. Sam is a kind and generous person who does everything for his friends and other people. He's always willing to help the people he cares for, and anyone in need, and he is easily the most sensitive and compassionate person in the Game of Thrones universe.
+# 12. Pisces: Hodor
+* Pisces are probably the most sensitive sign of the zodiac. They are intuitive, gentle, compassionate people who have an artistic side, tend to be fearful, and hate cruelty. Hodor is a kind and generous person who does everything for his friends and other people. He's always willing to help the people he cares for, and anyone in need, and he is easily the most sensitive and compassionate person in the Game of Thrones universe.
