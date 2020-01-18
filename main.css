@@ -1,0 +1,42 @@
+@import 'normalize.css';
+
+@font-face {
+    font-family: "roboto_regular";
+    src: url(fonts/roboto-regular-webfont.woff) format("woff"),
+        url(fonts/roboto-regular-webfont.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "roboto_italic";
+    src: url(fonts/roboto-italic-webfont.woff) format("woff"),
+        url(fonts/roboto-italic-webfont.woff2) format("woff2");
+}
+
+
+@font-face {
+    font-family: "roboto_bold";
+    src: url(fonts/roboto-bold-webfont.woff) format("woff"),
+        url(fonts/roboto-bold-webfont.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "GoT";
+    src: url(fonts/game_of_thrones-webfont.woff) format("woff"),
+        url(fonts/game_of_thrones-webfont.woff2) format("woff2");
+}
+
+
+
+* {
+    background: black;
+    color: white;
+}
+
+
+.GoT {
+    font-family: "GoT";
+}
+
+.center {
+    text-align: center;
+}
