@@ -53,6 +53,24 @@
 .center_text {
 display: flex;
 justify-content: center;
-padding: 4rem 30rem;
+padding: 4rem 15rem;
 font-size: 1.5rem;
+}
+
+.card_resize {
+    width: 7rem;
+    height: 7rem;
+}
+
+.left_col {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: left;
+}
+
+.right_col {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
 }

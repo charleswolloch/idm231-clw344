@@ -20,6 +20,7 @@ function dateToZodiac(whichMonth, whichDayOfMonth) {
         AstroSign = "Cap";
         gotSign = "Jon Snow";
         gotZod = "Capricorns are known for being responsible, disciplined people who make great managers but also tend to have a bit of a negative side. They are also very dedicated to their family lives and to doing things exactly right, and they tend to be very traditional and serious. These are all great ways to describe Jon. He is an excellent manager who has shown a decent amount of self-control, he is very responsible and is completely focused on his task at hand. He also has an extremely serious disposition and is known to be kind of a downer sometimes.";
+        
     } else if ((whichMonth == 11 && whichDayOfMonth >= 22) || (whichMonth == 12 && whichDayOfMonth <= 21)) {
         AstroSign = "Sag";
         gotSign = "Yigritte";
