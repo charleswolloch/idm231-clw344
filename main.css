@@ -58,12 +58,17 @@ padding: 4rem 15rem;
 font-size: 1.5rem;
 }
 
-.card_resize {
-    width: 10rem;
-    height: 10rem;
+.resize {
+    width: 5rem;
+border-color: black;
+
 }
 
+
 .center_flex{
-    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: space-around;
     align-items: center;
 }
