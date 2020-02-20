@@ -18,6 +18,12 @@ let leoObj = document.getElementById('leo');
 let virObj = document.getElementById('vir');
 
 
+function myHelp() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+}
+
+
 
 function computeZod() {
     let userBday = zodDateObj.value;
