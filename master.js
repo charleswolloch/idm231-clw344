@@ -3,6 +3,9 @@ let showMeObj = document.getElementById('showMe');
 
 let heroObj = document.getElementById('hero');
 
+let soundPlayerObj = document.getElementById("soundPlayer");
+
+
 
 let capObj = document.getElementById('cap');
 let ariObj = document.getElementById('ari');
@@ -137,6 +140,7 @@ aquObj.addEventListener('click', function () {
 pisObj.addEventListener('click', function () {
 
     swapZodInfo(6);
+    
 }, false);
 
 tauObj.addEventListener('click', function () {
@@ -180,33 +184,57 @@ function swapZodInfo(whichOne) {
 
     if (whichOne == 1) {
         heroObj.src = 'images/cap_hero.png';
+        playSomething('audio/jon_audio.mp3');
     } else if (whichOne == 2) {
         heroObj.src = 'images/ari_hero.png';
+        playSomething('audio/danny_audio.mp3');
     } else if (whichOne == 3) {
         heroObj.src = 'images/sco_hero.png';
+        playSomething('audio/arya_audio.mp3');
     } else if (whichOne == 4) {
         heroObj.src = 'images/sag_hero.png';
+        playSomething('audio/yigritte_audio.mp3');
     } else if (whichOne == 5) {
         heroObj.src = 'images/aqu_hero.png';
+        playSomething('audio/bran_audio.mp3');
     } else if (whichOne == 6) {
         heroObj.src = 'images/pis_hero.png';
+        playSomething('audio/hodor_audio.mp3');
     } else if (whichOne == 7) {
         heroObj.src = 'images/tau_hero.png';
+        playSomething('audio/jamie_audio.mp3');
     } else if (whichOne == 8) {
         heroObj.src = 'images/gem_hero.png';
+        playSomething('audio/sansa_audio.mp3');
     } else if (whichOne == 9) {
         heroObj.src = 'images/can_hero.png';
+        playSomething('audio/circi_audio.mp3');
     } else if (whichOne == 10) {
         heroObj.src = 'images/lib_hero.png';
+        playSomething('audio/bronn_audio.mp3');
     } else if (whichOne == 11) {
         heroObj.src = 'images/leo_hero.png';
+        playSomething('audio/tyrion_audio.mp3');
     } else if (whichOne == 12) {
         heroObj.src = 'images/vir_hero.png';
+        playSomething('audio/brienne_audio.mp3');
+
     } else {
         console.log('error in swapzodinfo');
     }
 
 
 
+
+}
+
+function playSomething(whichSound) {
+
+    console.log('playSomething called' + whichSound);
+
+
+
+    soundPlayerObj.src = whichSound;
+    soundPlayerObj.play();
 
 }

@@ -17,6 +17,20 @@ body {
 
 .GoT {
     font-family: "GoT";
+    
+}
+
+.textBack {
+    background: black;
+    margin: 1rem 8rem;
+    padding: .5rem .1em;
+}
+
+.titleBack {
+    background: black;
+    margin: 1rem 23rem;
+    padding: .5rem .1em;
+
 }
 
 .center {

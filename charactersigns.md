@@ -36,3 +36,16 @@ https://www.bustle.com/p/what-zodiac-signs-game-of-thrones-characters-would-be-i
 
 # 12. Pisces: Hodor Feb 19.. Mar 20
 * Pisces are probably the most sensitive sign of the zodiac. They are intuitive, gentle, compassionate people who have an artistic side, tend to be fearful, and hate cruelty. Hodor is a kind and generous person who does everything for his friends and other people. He's always willing to help the people he cares for, and anyone in need, and he is easily the most sensitive and compassionate person in the Game of Thrones universe.
+
+# 1. Aries: Daenerys Targaryen Mar 21.. Apr 19 
+# 2. Taurus: Jaime Lannister Apr 20.. May 20	
+# 3. Gemini: Sansa Stark May 21.. Jun 21
+# 4. Cancer: Cersei Lannister Jun 22.. Jul 22
+# 5. Leo: Tyrion Lannister Jul 23.. Aug 22
+# 6. Virgo: Brienne of Tarth Aug 23.. Sep 22
+# 7. Libra: Bronn of the Blackwater Sep 23.. Oct 23
+# 8. Scorpio: Arya Stark Oct 24.. Nov 21
+# 9. Sagittarius: Yigritte  Nov 22.. Dec 21
+# 10. Capricorn: Jon Snow Dec 22.. Jan 19
+# 11. Aquarius: Bran Stark Jan 20.. Feb 18
+# 12. Pisces: Hodor Feb 19.. Mar 20
