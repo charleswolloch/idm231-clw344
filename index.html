@@ -7,11 +7,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Game of Thrones Zodiac</title>
     <link rel="stylesheet" href="main.css">
+    <link rel="icon" href="images/favicon_self.png" type="favicon.ico" />
+
 </head>
 
 <body>
-<div class="center_flex">
-    
+    <div id="content">
+        <div class="center_flex">
+
             <button class="resize" id="cap"><img src="images/cap_button.png" class="resize"></button>
             <button class="resize" id="ari"><img src="images/ari_button.png" class="resize"></button>
             <button class="resize" id="sco"><img src="images/sco_button.png" class="resize"></button>
@@ -26,44 +29,46 @@
             <button class="resize" id="vir"><img src="images/vir_button.png" class="resize"></button>
         </div>
 
-    <div class="center">
-        <h1 class="GoT titleBack">Zodiac of Thrones</h1>
-        <h4 class="GoT textBack">Which Game of Thrones character are you? Type in your birthday and find out:</h4>
-        
+        <div class="center">
+            <h1 class="GoT titleBack">Zodiac of Thrones</h1>
+            <h4 class="GoT textBack">Which Game of Thrones character are you? Type in your birthday and find out:</h4>
 
-    </div>
 
-    <div id="wrapper">
-
-        <form action="">
-            <label for="zods">Birthday</label>
-            <input type="date" id="zodDate" name="zodDate">
-
-        </form>
-
-        <button id="compute" onclick="computeZod();">COMPUTE</button>
-        
-    </div>
-    
-
-    <div class="center_text">
-            
-                    <img id="hero" src="images/base_img.png" alt="photo" />
-        
-        </div>    
-    
-        <div class="push_right">
-            <div class="popup" onclick="myHelp()">CLICK FOR HELP
-                <span class="popuptext" id="myPopup">Type in a valid birthday as mm/dd/yyyy or click a button and see your zodiac!</span>
-            </div>
         </div>
 
-        <audio src="" id="soundPlayer">
+        <div id="wrapper">
 
-            <p>Your browser doesnt support audio.</p>
-        </audio>
+            <form action="">
+                <label for="zods">Birthday</label>
+                <input type="date" id="zodDate" name="zodDate">
+
+            </form>
+
+            <button id="compute" onclick="computeZod();">COMPUTE</button>
+
+        </div>
+
+
+        <div class="center_text">
+
+            <img id="hero" src="images/base_img.png" alt="photo" />
+
+        </div>
+
+        <div class="push_right">
+            <div class="popup" onclick="myHelp()">CLICK FOR HELP
+                <span class="popuptext" id="myPopup">Type in a valid birthday as mm/dd/yyyy or click a button and see your zodiac!<br><img src="images/pis_button.png" class="helpResize"> <br>This is what a button looks like! </span>
+            </div>
+        </div>
+    </div>
+    <audio src="" id="soundPlayer">
+
+        <p>Your browser doesnt support audio.</p>
+    </audio>
 
     <script src="master.js"></script>
+
+
 </body>
 
 </html>

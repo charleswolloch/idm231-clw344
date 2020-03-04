@@ -7,17 +7,23 @@
 }
 
 * {
-    
+
     color: white;
 }
 
+
+
 body {
     background-image: url("images/background_img.jpg");
-  }
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+
+}
 
 .GoT {
     font-family: "GoT";
-    
+
 }
 
 .textBack {
@@ -35,7 +41,7 @@ body {
 
 .center {
     text-align: center;
-    
+
 }
 
 
@@ -43,22 +49,23 @@ body {
 #wrapper {
     display: flex;
     justify-content: center;
-    
+
 }
 
 .center_text {
-display: flex;
-flex-direction: row;
-justify-content: center;
-padding: 2rem 15rem;
-font-size: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2rem 15rem;
+    font-size: 1.5rem;
 }
 
 .resize {
     width: 5rem;
-border-color: transparent;;
-background: none;
-cursor: pointer;
+    border-color: transparent;
+    ;
+    background: none;
+    cursor: pointer;
 }
 
 #compute {
@@ -74,7 +81,7 @@ cursor: pointer;
 
 }
 
-.center_flex{
+.center_flex {
     margin: 2rem 1rem 4rem 0;
     display: flex;
     justify-content: space-around;
@@ -154,4 +161,14 @@ cursor: pointer;
     to {
         opacity: 1;
     }
+}
+
+
+.helpResize {
+    width: 40%;
+}
+
+#content {
+    max-width: 1200px;
+    margin: auto;
 }
